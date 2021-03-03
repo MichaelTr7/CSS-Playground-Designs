@@ -9,3 +9,7 @@
 <h3>HTML</h3>
 
 [<img src="./Jumping Instagram Logo/HTML.png" width = "450">]()
+
+<h3>CSS</h3>
+
+[<img src="./Jumping Instagram Logo/CSS.png" width = "450">]()
